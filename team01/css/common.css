@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+* { 
+    box-sizing: border-box; 
+}
+
+body { 
+    font-family: 'ShillaG', sans-serif; 
+    font-weight:300; 
+}
+
+a { 
+    text-decoration: none; 
+    color: #333; 
+}
+
+.wrap { 
+    width: 100%; 
+    min-width: 320px; 
+}
+
+.container { 
+    width: 1600px;
+    margin: 0 auto;
+}
